@@ -16,7 +16,7 @@ def getChangelog = { ->
 }
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 19
     buildToolsVersion "26.0.1"
 
     signingConfigs {
